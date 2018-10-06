@@ -1,0 +1,22 @@
+{
+  "name": "swagger",
+  "version": "1.0.0",
+  "description": "Swagger APIs for Atlas",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pineconesundae/atlas.git"
+  },
+  "keywords": [
+    "atlas"
+  ],
+  "author": "Andrew Ruslander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pineconesundae/atlas/issues"
+  },
+  "homepage": "https://github.com/pineconesundae/atlas#readme"
+}
